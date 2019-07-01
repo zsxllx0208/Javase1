@@ -1,4 +1,4 @@
-package jy5_zsx.test.test0620;
+package test.test0620;
 
 public class test1 {
     public static void main(String[] args) {
